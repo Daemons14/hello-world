@@ -1,2 +1,3 @@
 # hello-world
-first repository
+
+Hi guys. I like to PHP and java specially codeigniter and everything
